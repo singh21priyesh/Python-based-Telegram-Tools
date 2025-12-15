@@ -1,7 +1,7 @@
 ##================USAGE
-#input mmobile number (memeber of group):918329071268
+#input mmobile number (memeber of group):91xxxxxxx
 #input otp recieved on telegram associated with this numebr
-#input password of your account Pr0exp73
+#input password of your account abcd123
 #once .session is establiesh and a flie is .sesion is placed in folder, no need to input passowrd again
 
 
@@ -126,3 +126,4 @@ async def analyze_logins():
 if __name__ == "__main__":
     import asyncio
     asyncio.run(analyze_logins())
+
